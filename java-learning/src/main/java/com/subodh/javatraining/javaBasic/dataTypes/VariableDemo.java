@@ -1,4 +1,4 @@
-package com.subodh.javatraining.javaBasic;
+package com.subodh.javatraining.javaBasic.dataTypes;
 
 public class VariableDemo {
     public static void main(String[] args) {
