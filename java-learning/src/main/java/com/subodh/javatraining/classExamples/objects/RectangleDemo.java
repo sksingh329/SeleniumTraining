@@ -1,4 +1,4 @@
-package com.subodh.javatraining.javaBasic.classExamples;
+package com.subodh.javatraining.classExamples.objects;
 
 class Rectangle {
     int height, width;
