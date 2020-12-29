@@ -1,10 +1,8 @@
-package com.subodh.javatraining.javaBasic.classExamples;
+package com.subodh.javatraining.oop.classExamples;
 
 class Rectangle {
     int height, width;
-    Rectangle(){
-
-    }
+    Rectangle(){}
     Rectangle(int height){
         this.height = height;
     }

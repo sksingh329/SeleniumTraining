@@ -1,0 +1,3 @@
+today is 29th December 2020 and day is tuesday.
+I will be working on ga regression and copying gp logs from vmss instances.tomorrow is 30th December 2020 and day is wednesday.
+Not sure what I will work tomorrow.

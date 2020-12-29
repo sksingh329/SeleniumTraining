@@ -1,4 +1,4 @@
-package com.subodh.javatraining.javaBasic.classExamples;
+package com.subodh.javatraining.oop.classExamples;
 
 class CompareObjects {
     int a,b;
