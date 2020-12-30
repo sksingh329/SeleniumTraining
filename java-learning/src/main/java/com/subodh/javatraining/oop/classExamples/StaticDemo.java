@@ -1,4 +1,4 @@
-package com.subodh.javatraining.classExamples.objects;
+package com.subodh.javatraining.oop.classExamples;
 
 public class StaticDemo {
 

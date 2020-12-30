@@ -1,4 +1,4 @@
-import com.subodh.javatraining.classExamples.objects.StaticDemo;
+import com.subodh.javatraining.oop.classExamples.StaticDemo;
 
 public class StaticDemoTest {
     public static void main(String[] args) {
