@@ -11,15 +11,6 @@ public class Demo {
                 "/resources/chromedriver7");
         WebDriver driver = new ChromeDriver();
         driver.get("http://www.google.co.in");
-
-
-
         WebElement btnGoogleSearch = driver.findElement(By.name("btnK"));
-
-
-
-
-
-
     }
 }
